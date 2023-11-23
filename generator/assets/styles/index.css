@@ -1,0 +1,23 @@
+.alphabet{
+    
+    color:darkred
+}
+#generate{
+    background-color: rgb(192, 12, 12);
+    color: white;
+}
+#output{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: brown;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+}
+.container {
+    text-align: center;
+}
